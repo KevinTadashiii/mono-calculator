@@ -1,0 +1,75 @@
+# Built files
+/build/
+/.gradle/
+/local.properties
+
+# IDE files
+.idea/
+/*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Android specific
+/captures/
+/output.json
+
+# Log files
+*.log
+
+# Kotlin/Java compilation
+*.class
+*.jar
+*.war
+*.ear
+
+# Caches
+/.cxx/
+/.kotlinc/
+/.kts_cache/
+
+# Generated files
+/buildSrc/.gradle/
+/buildSrc/build/
+/app/build/
+/app/.cxx/
+/app/intermediates/
+/app/generated/
+/app/.gradle/
+/app/tmp/
+/app/.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle Wrapper
+.gradle/
+/gradle-wrapper.jar
+/gradle-wrapper.properties
+
+# Local configuration
+local.properties
+
+# APK and signing
+*.apk
+*.ap_
+*.dex
+*.so
+
+# Jetpack Compose specific (no extra entries needed, handled by Android defaults)
+
+# Coverage
+*.ec
+
+# IntelliJ
+.idea
+*.iws
+*.ipr
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Firebase
+/google-services.json
